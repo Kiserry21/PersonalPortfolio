@@ -116,7 +116,9 @@ nav ul li a:hover::after{
     grid-gap: 40px;
     margin-top: 50px;
 
+
 }
+
 .small-projects{
     display:flex;
 }

@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-I built this portfolio web page from scratch without starter code. This portfolio web page can help employer's to know more about me because it show's ny talents, background, and my work.  
+I built this portfolio web page from scratch without starter code. This portfolio web page can help employer's to know more about me because it show's my talents, background, and my work.  
 
 I developed my personal portfolio based on below user story and acceptance criteria.
 
